@@ -6,7 +6,7 @@
 
 #ls
 #mkdir a/a/a/a
-ruby ./toge.rb && ls
+ruby ./toge.rb
 
 
 #exit 1
